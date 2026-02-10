@@ -2,7 +2,8 @@
 Repo contains scripts i coded to translate .srt files to the language you want.
 
 ## General
-So far, i have created one script to use GoogleTranslate and another one that uses DeepL API (free version).
+So far, i have created one script to use GoogleTranslate and another one that uses DeepL API (free version).  
+Currently still learning python by creating small apps/scripts that have use for me. 
 
 ## Requirements
 - Have python installed on your machine
