@@ -1,5 +1,5 @@
 # srt-translations
-Repo contains scripts i coded to translate .srt files to the language you want.
+Repo contains python scripts to translate .srt files to the language you want.
 
 ## General
 So far, i have created one script to use GoogleTranslate and another one that uses DeepL API (free version).  
